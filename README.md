@@ -1,6 +1,26 @@
 # Basic-HtmlCss-Website
 This website is a Project for Audit Course of Web Development provided by Vidyalankar Institute of Technology and  Kids Galaxy
 
+This Project is Build on Basic HTML and CSS 
+Contains Three Web pages with Navigation bar and Footer 
+
+Some Common tags and properties used in this website are:
+
+HTML Tags:
+li - tag defines a list item.
+ul - The li tag used under this tag which mentions Unordered Lists
+p - tag defines a paragraph
+h1 and h2 - tag defines headings
+div - tag defines division and section in a document that is styled with CSS
+
+CSS Properties:
+background-color
+padding
+position
+text align 
+decoration 
+overflow
+list-style-type
 
 Screenshots :
 
