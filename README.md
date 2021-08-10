@@ -12,15 +12,16 @@ HTML Tags:
 <li>p - tag defines a paragraph</li>
 <li>h1 and h2 - tag defines headings</li>
 <li>div - tag defines division and section in a document that is styled with CSS</li>
+<br>
 
 CSS Properties:  
-background-color
-padding
-position
-text align 
-decoration 
-overflow
-list-style-type
+<li>background-color</li>
+<li>padding</li>
+<li>position</li>
+<li>text align</li> 
+<li>decoration</li> 
+<li>overflow</li>
+<li>list-style-type</li>
 
 Screenshots :
 
