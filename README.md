@@ -5,7 +5,9 @@ This Project is Build on Basic HTML and CSS
 Contains Three Web pages with Navigation bar and Footer 
 
 Start the Website from Home.html
+
 Computer Page - co.html
+
 Information Technolgy Page - it.html
 
 Some Common tags and properties used in this website are:
